@@ -63,7 +63,7 @@ Training loss stayed constant at **0.00** since the beginning.
 This can happen due to:
 - Incorrect label alignment or tokenizer mismatch  
 - Mixed precision training overflow (FP16 underflow)  
-- Dataset tokenization not matching expected input format (`<lang>` tags missing)
+
 
 Because of this, the model didn’t learn — the outputs were almost random.  
 Proper preprocessing and careful learning rate scheduling could fix this.
@@ -112,7 +112,7 @@ These are pre-trained transformer-based translation models from the **OPUS proje
 - Produced clean, fluent translations.  
 - Training + inference were extremely lightweight compared to LSTM or mT5.
 
--
+
 
 ---
 
