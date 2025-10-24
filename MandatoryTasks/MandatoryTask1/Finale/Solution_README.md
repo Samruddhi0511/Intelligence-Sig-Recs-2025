@@ -58,5 +58,28 @@ Users can ask questions in English about any context paragraph and receive accur
 
 ---
 
-## 🖥 Pipeline Overview
+##  Pipeline Overview
+[Context (EN)] + [Question (EN)]
+            |
+            v
+[DeBERTa QA Model]
+            |
+            v
+[Answer (EN)]
+            |
+            v
+[Helsinki MT Model EN→FR]
+            |
+            v
+[Answer (FR)]
 
+
+---
+
+##  Features
+- Interactive English QA with French translation  
+- Efficient transformer models for low compute  
+- End-to-end pipeline without manual intervention  
+- Supports literary and general English contexts  
+
+---
