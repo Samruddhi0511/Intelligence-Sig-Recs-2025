@@ -44,10 +44,10 @@ The following metrics were used to evaluate model performance:
 
 | Model | Exact Match (EM) | F1 Score |
 |:------|:----------------:|:--------:|
-| **BERT** | 72.3 | 81.6 |
-| **RoBERTa** | 75.9 | 84.1 |
-| **DeBERTa-v3** | 78.2 | 86.5 |
-| **Longformer** | 74.8 | 83.7 |
+| **BERT** | 66.50 | 72.48 |
+| **RoBERTa** | 81.50 | 86.30 |
+| **DeBERTa-v3** | 84.00 | 86.18 |
+| **Longformer** | 77.00 | 83.30 |
 
 **Deberta performed the best hence used that for the finale task**
 
