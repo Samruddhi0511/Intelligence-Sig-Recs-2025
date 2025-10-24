@@ -1,8 +1,8 @@
 #  Word Embeddings Comparison
 
-** Task Link:** [Google Drive Folder](https://drive.google.com/drive/folders/1FlLZUye6GEAXfgCCyH9cuxs14lNG2bel?usp=sharing)  
-** Dataset Used:** NewsQA Dataset  
-** Goal:** To understand how different embedding techniques capture semantic meaning in text — moving from simple frequency-based methods to deep contextual representations.
+**Task Link:** [Google Drive Folder](https://drive.google.com/drive/folders/1FlLZUye6GEAXfgCCyH9cuxs14lNG2bel?usp=sharing)  
+**Dataset Used:** NewsQA Dataset  
+**Goal:** To understand how different embedding techniques capture semantic meaning in text — moving from simple frequency-based methods to deep contextual representations.
 
 ---
 
