@@ -59,19 +59,19 @@ Users can ask questions in English about any context paragraph and receive accur
 ---
 
 ##  Pipeline Overview
-[Context (EN)] + [Question (EN)]
+Context (EN) + Question (EN)
             ---
-            v
-[DeBERTa QA Model]
+            >
+DeBERTa QA Model
             ---
-            v
-[Answer (EN)]
+            >
+Answer (EN)
             ---
-            v
-[Helsinki MT Model EN→FR]
+            >
+Helsinki MT Model EN→FR
             ---
-            v
-[Answer (FR)]
+            >
+Answer (FR)
 
 
 ---
