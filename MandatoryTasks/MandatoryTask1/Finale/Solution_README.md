@@ -60,16 +60,16 @@ Users can ask questions in English about any context paragraph and receive accur
 
 ##  Pipeline Overview
 [Context (EN)] + [Question (EN)]
-            |
+            ---
             v
 [DeBERTa QA Model]
-            |
+            ---
             v
 [Answer (EN)]
-            |
+            ---
             v
 [Helsinki MT Model EN→FR]
-            |
+            ---
             v
 [Answer (FR)]
 
